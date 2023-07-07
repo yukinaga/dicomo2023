@@ -1,6 +1,9 @@
 ## DICOMO 2023 シンポジウム
 # 生成AIの現状と展望 -AIと共生する未来への道程-
 
+## スライド
+[生成AIの現状と展望: AIと共生する未来への道程](https://speakerdeck.com/yukinaga/sheng-cheng-ainoxian-zhuang-tozhan-wang-aitogong-sheng-suruwei-lai-henodao-cheng)
+
 ## 参考文献:
 
 ### Section1
